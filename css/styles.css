@@ -1,0 +1,170 @@
+
+.root{
+    --primery-text-color: #757575;
+    --title-text-color: #212121;
+}
+.body{color: #ffffff;
+font-family:Roboto, sans-serif;
+text-decoration: none;
+}
+
+.logo{color: #000000;
+    font-family: Raleway;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 1.2;
+    letter-spacing: 0.03em 
+    text-decoration: none;
+}
+.first-logo{color: #2196F3;
+font-family: Raleway;
+font-weight: 700;
+font-size: 26px;
+line-height: 1.2;
+letter-spacing: 0.03em
+}
+
+
+
+.contacts{
+    font-family: 'Roboto';
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.14;
+    letter-spacing: 0.02em;
+    color: #212121;
+}
+.header-mail{
+    font-family: 'Roboto';
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.14;
+    letter-spacing: 0.02em;
+    color: #2196F3;}
+.header-tell{
+    font-family: 'Roboto';
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.14;
+    letter-spacing: 0.02em;
+    color: #757575;
+    }
+
+
+
+
+
+.header-title{background-color: #2F303A;}
+.header-text{
+    font-family: 'Roboto';
+    font-weight: 900;
+    font-size: 44px;
+    line-height: 1.36;
+    text-align: center;
+    color: #FFFFFF;}
+
+.button{color: #ffffff;}
+.button{background-color: #2196F3;}
+
+ul{ list-style: none;}
+
+.advences-title{
+    font-family: 'Roboto';
+    font-weight: 700;
+    font-size: 14px;
+    line-height:1.14;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #212121;}
+
+.advences-text{
+    font-family: 'Roboto';
+    font-size: 14px;
+    line-height: 1.71;
+    letter-spacing: 0.03em;
+    color: #757575;
+    }
+
+.work{
+    font-family: 'Roboto';
+    font-weight: 700;
+    font-size: 36px;
+    line-height:1.16;
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: #212121;}
+
+.workers{
+    font-family: 'Roboto';
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.16;
+    text-align: center;
+    letter-spacing: 0.03em;
+    
+    color: #212121;}
+
+.workers-squad{
+    font-family: 'Roboto';
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.26;
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: #212121;}
+
+.profession{
+    font-family: 'Roboto';
+    font-size: 16px;
+    line-height: 1.26;
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: #757575;}
+
+.footer{
+    background-color: #2F303A;
+}
+
+.footer-logo{color: #ffffff;}
+.first-footer-logo{color: #2196F3;}
+
+.addres-office{color: #ffffff;}
+.mail, .tell{color:#FFFFFF;}
+
+  
+
+
+
+
+.studio{font-family: Roboto;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2196F3;}
+.studio:hover,.studio:focus{color: orange;}
+
+.portfolio{
+font-family: 'Roboto';
+font-weight: 500;
+font-size: 14px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+color: #2196F3;}
+.portfolio:hover, .portfolio:focus
+{color: orange;}
+
+.button-all{background-color: #2196F3;color: #FFFFFF;}
+
+.title{
+    font-family: 'Roboto';
+    font-weight: 700;
+    font-size: 18px;
+    line-height:2 ;
+    color:#212121;
+}
+.title-text{
+    font-family: 'Roboto';
+    font-size: 16px;
+    line-height: 1.8;
+    color: #757575;}
