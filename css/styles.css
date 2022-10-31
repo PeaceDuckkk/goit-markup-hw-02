@@ -14,7 +14,6 @@ text-decoration: none;
     font-size: 26px;
     line-height: 1.2;
     letter-spacing: 0.03em 
-    text-decoration: none;
 }
 .first-logo{color: #2196F3;
 font-family: Raleway;
@@ -25,32 +24,35 @@ letter-spacing: 0.03em
 }
 
 
-
-.contacts{
+.nav-link{
     font-family: 'Roboto';
     font-weight: 500;
     font-size: 14px;
-    line-height: 1.14;
+    line-height: 16px;
     letter-spacing: 0.02em;
-    color: #212121;
+    
+    color: #212121;}
+
+
+.header-contacts-link{
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0.02em;
+
+color: #757575;
+
 }
-.header-mail{
-    font-family: 'Roboto';
-    font-weight: 500;
-    font-size: 14px;
-    line-height: 1.14;
-    letter-spacing: 0.02em;
-    color: #2196F3;}
-.header-tell{
-    font-family: 'Roboto';
-    font-weight: 500;
-    font-size: 14px;
-    line-height: 1.14;
-    letter-spacing: 0.02em;
-    color: #757575;
-    }
 
-
+.contacts-link{
+    font-family: 'Roboto';
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.03em;
+    color: rgba(255, 255, 255, 0.6);
+}
 
 
 
@@ -63,7 +65,11 @@ letter-spacing: 0.03em
     text-align: center;
     color: #FFFFFF;}
 
-.button{color: #ffffff;}
+.button{color: #ffffff;
+    font-family: 'Roboto';
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 1.8;}
 .button{background-color: #2196F3;}
 
 ul{ list-style: none;}
@@ -101,7 +107,7 @@ ul{ list-style: none;}
     line-height: 1.16;
     text-align: center;
     letter-spacing: 0.03em;
-    
+    background-color: #F5F4FA;;
     color: #212121;}
 
 .workers-squad{
@@ -129,42 +135,38 @@ ul{ list-style: none;}
 .first-footer-logo{color: #2196F3;}
 
 .addres-office{color: #ffffff;}
-.mail, .tell{color:#FFFFFF;}
-
-  
 
 
 
 
-.studio{font-family: Roboto;
-    font-weight: 500;
-    font-size: 14px;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    color: #2196F3;}
-.studio:hover,.studio:focus{color: orange;}
 
-.portfolio{
-font-family: 'Roboto';
-font-weight: 500;
-font-size: 14px;
-line-height: 1.2;
-letter-spacing: 0.02em;
-color: #2196F3;}
-.portfolio:hover, .portfolio:focus
-{color: orange;}
 
-.button-all{background-color: #2196F3;color: #FFFFFF;}
+
+.active{color: #2196F3;}
+.activ:hover, :focus {
+    color: #2196F3;
+
+}
 
 .title{
     font-family: 'Roboto';
     font-weight: 700;
     font-size: 18px;
-    line-height:2 ;
-    color:#212121;
-}
+    line-height: 36px;
+    letter-spacing: 0.06em;
+    color: #212121;}
+
 .title-text{
     font-family: 'Roboto';
     font-size: 16px;
     line-height: 1.8;
     color: #757575;}
+
+
+    .button-menu{
+    font-family: 'Roboto';
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.6;
+    letter-spacing: 0.03em;
+    color: #212121;}
