@@ -8,27 +8,37 @@ font-family:Roboto, sans-serif;
 text-decoration: none;
 }
 
-.logo{color: #000000;
+.logo{color:#2196F3 ;
     font-family: Raleway;
     font-weight: 700;
     font-size: 26px;
     line-height: 1.2;
     letter-spacing: 0.03em 
 }
-.first-logo{color: #2196F3;
-font-family: Raleway;
-font-weight: 700;
-font-size: 26px;
-line-height: 1.2;
-letter-spacing: 0.03em
-}
+.footer-part{
+    font-family: 'Raleway';
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 1.2;
+    letter-spacing: 0.03em;
+    color: #FFFFFF;}
+
+
+.header-part{
+    font-family: 'Raleway';
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 1.2px;
+    letter-spacing: 0.03em;
+    color: #000000;}
+
 
 
 .nav-link{
     font-family: 'Roboto';
     font-weight: 500;
     font-size: 14px;
-    line-height: 16px;
+    line-height: 1.1;
     letter-spacing: 0.02em;
     
     color: #212121;}
@@ -39,7 +49,7 @@ font-family: 'Roboto';
 font-style: normal;
 font-weight: 500;
 font-size: 14px;
-line-height: 16px;
+line-height: 1.1;
 letter-spacing: 0.02em;
 
 color: #757575;
@@ -49,7 +59,7 @@ color: #757575;
 .contacts-link{
     font-family: 'Roboto';
     font-size: 14px;
-    line-height: 24px;
+    line-height: 1.7;
     letter-spacing: 0.03em;
     color: rgba(255, 255, 255, 0.6);
 }
@@ -131,8 +141,7 @@ ul{ list-style: none;}
     background-color: #2F303A;
 }
 
-.footer-logo{color: #ffffff;}
-.first-footer-logo{color: #2196F3;}
+
 
 .addres-office{color: #ffffff;}
 
