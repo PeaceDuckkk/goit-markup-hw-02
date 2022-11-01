@@ -8,12 +8,14 @@ font-family:Roboto, sans-serif;
 text-decoration: none;
 }
 
-.logo{color:#2196F3 ;
+.logo{
+    color:#2196F3 ;
     font-family: Raleway;
     font-weight: 700;
     font-size: 26px;
     line-height: 1.2;
-    letter-spacing: 0.03em 
+    letter-spacing: 0.03em;
+    text-decoration: none;
 }
 .footer-part{
     font-family: 'Raleway';
@@ -40,9 +42,19 @@ text-decoration: none;
     font-size: 14px;
     line-height: 1.1;
     letter-spacing: 0.02em;
-    
-    color: #212121;}
+    color: #212121;
+    text-decoration: none;}
+    .nav-link:hover, :focus{color: #2196F3;}
 
+    .button{
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 16px;
+        line-height: 30px;
+        letter-spacing: 0.06em;
+        color: #FFFFFF;
+        background-color: #2196F3;}
 
 .header-contacts-link{
 font-family: 'Roboto';
@@ -51,18 +63,21 @@ font-weight: 500;
 font-size: 14px;
 line-height: 1.1;
 letter-spacing: 0.02em;
-
+text-decoration: none;
 color: #757575;
 
 }
 
 .contacts-link{
     font-family: 'Roboto';
+    font-style: normal;
     font-size: 14px;
     line-height: 1.7;
     letter-spacing: 0.03em;
     color: rgba(255, 255, 255, 0.6);
+    text-decoration: none;
 }
+
 
 
 
@@ -75,12 +90,7 @@ color: #757575;
     text-align: center;
     color: #FFFFFF;}
 
-.button{color: #ffffff;
-    font-family: 'Roboto';
-    font-weight: 700;
-    font-size: 16px;
-    line-height: 1.8;}
-.button{background-color: #2196F3;}
+
 
 ul{ list-style: none;}
 
@@ -143,7 +153,10 @@ ul{ list-style: none;}
 
 
 
-.addres-office{color: #ffffff;}
+.addres-office{color: #ffffff;
+font-style: normal;
+text-decoration: none;}
+.addres-office:hover,:focus{}
 
 
 
@@ -151,11 +164,8 @@ ul{ list-style: none;}
 
 
 
-.active{color: #2196F3;}
-.activ:hover, :focus {
-    color: #2196F3;
+.current:hover, .current:focus{}
 
-}
 
 .title{
     font-family: 'Roboto';
@@ -163,7 +173,8 @@ ul{ list-style: none;}
     font-size: 18px;
     line-height: 36px;
     letter-spacing: 0.06em;
-    color: #212121;}
+    color: #212121;
+    text-decoration: none;}
 
 .title-text{
     font-family: 'Roboto';
@@ -173,9 +184,14 @@ ul{ list-style: none;}
 
 
     .button-menu{
-    font-family: 'Roboto';
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 1.6;
-    letter-spacing: 0.03em;
-    color: #212121;}
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 26px;
+        letter-spacing: 0.03em;
+        color: #212121;
+        
+        }
+
+        .portfolio-button:hover,:focus{color: #2196F3;}
